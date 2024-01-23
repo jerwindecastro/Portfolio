@@ -1,0 +1,114 @@
+.gradient-color{
+    width: 100%;
+    background: linear-gradient(
+        to right, #f2f2f2 0%, #f2f2f2 50%, #0a369d 50%, #0a369d 100%
+    );
+}
+
+.myName{
+    font-family: Helvetica, sans-serif;
+    color: #0a369d;
+    font-size: 4em;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+    height: max-content;
+}
+
+.programmer{
+    font-family: Helvetica, sans-serif;
+    color: darkgray;
+    font-size: 2.5em;
+    margin: 0;
+    padding: 0;
+    height: max-content;
+}
+
+.hello{
+    font-family: Helvetica, sans-serif;
+    color: #0a369d;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+    font-size: 4em;
+}
+
+.intro{
+    font-family: Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.introduction{
+    background-color: #f2f2f2;
+}
+
+.condiment1{
+    padding-top: 100px;
+}
+
+.condiment2{
+    margin-right: 0;
+    margin-left: 140px;
+}
+
+.exp{
+    background-color: #0a369d;
+    color: white;
+    width: max-content;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px;
+}
+
+.exp > p{
+    margin-bottom: 0px;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+.aop{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+    font-size: 4em;
+}
+
+.area{
+    background-color: #0a369d;
+}
+
+.nstyle{
+    list-style: none;
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+.check{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: white;
+    color: #0a369d;
+    font-size: 20px;
+}
+
+.telephone{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: white;
+    color: #0a369d;
+    font-size: 20px;
+}
+
+
+.getin{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+    font-size: 5em;
+}
